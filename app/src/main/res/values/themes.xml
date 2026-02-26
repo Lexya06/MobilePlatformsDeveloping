@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CulinaryGuide" parent="android:Theme.DeviceDefault.NoActionBar.Fullscreen"/>
+    <style name="Theme.CulinaryGuide.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splashscreen_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.CulinaryGuide</item>
+        <item name="windowSplashScreenAnimationDuration">0</item>
+    </style>
+</resources>

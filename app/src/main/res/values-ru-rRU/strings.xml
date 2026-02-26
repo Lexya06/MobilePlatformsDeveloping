@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Время готовить</string>
+    <string name="users">Пользователи</string>
+    <string name="dark_theme">Темная тема</string>
+    <string name="add_user">Добавить пользователя</string>
+    <string name="edit_user">Редактировать пользователя</string>
+    <string name="login">Логин</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль (необязательно)</string>
+    <string name="age">Возраст</string>
+    <string name="image_path">Путь к картинке</string>
+    <string name="save_changes">Сохранить изменения</string>
+    <string name="cancel_changes">Отменить изменения</string>
+</resources>
